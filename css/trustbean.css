@@ -669,3 +669,77 @@ background: #3879bd;
 
 
 /*---------------------| end site_info_area css (sakib) |---------------------*/
+
+/*-------------------------| start nav-two area |---------------------------*/
+.nav-two-area{
+    background: #333333;
+    height: 45px;
+    padding-top: 12px;
+}
+.nav-two-area a{
+    color: #FFFFFF!important;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 0px 15px;
+}
+.nav-two-area .active{
+    color: #FF8E0C!important;
+    padding-left: 0;
+    border-right: 1px solid #FFFFFF;
+}
+.nav-two-area a:hover{
+    color: #FF8E0C!important;   
+}
+
+/*-------------------------| end nav-two area |---------------------------*/
+
+/*---------------------------|start web hosing are css (sakib) |-------------------------------*/
+.top-web-hosting-area{
+    padding: 40px 0px;
+}
+.top-web-hosting-area h2{
+    font-size: 40px;
+
+}
+.top-web-hosting-area h4{
+    font-size: 35px;
+}
+.heading-LITE{
+    background-color: #FFAF00;
+}
+.heading-SWIFT{
+    background-color: #73B800;
+}
+.heading-TURBO{
+    background-color: #FFAF00;
+}
+.bottom-web-hosting p{
+    font-size: 20px;
+}
+/*---------------------------|end web hosing are css (sakib) |-------------------------------*/
+
+
+
+/*---------------------------| start Fastest Shared Web Hosting css(sakib) |-------------------------------*/
+
+.fastest-shared-web-area{
+    padding: 40px 0;
+    background: #F5F5F5;
+}
+
+.fastest-shared-web-area h3{
+    font-size: 35px;
+}
+.fastest-shared-web-area h6{
+    font-size: 22px;
+}
+.fastest-shared-web-area p{
+    font-size: 16px;
+}
+.fastest-shared-web-area a{
+    color: #84A000!important;
+}
+.fastest-shared-web-area a:hover{
+    opacity: 0.7;
+}
+/*---------------------------| end Fastest Shared Web Hosting css(sakib) |-------------------------------*/
